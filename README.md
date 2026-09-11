@@ -15,6 +15,6 @@ Binary STL is an explicit byte-buffer adapter boundary, never inferred from a
 misleading `solid` header.
 
 ```sh
-clojure -M:test
-clojure -M:lint
+kbb -M:test
+kbb -M:lint
 ```
